@@ -8,34 +8,36 @@ Este repositório contém o desenvolvimento completo da Atividade 4 da disciplin
 A Academia VivaFit gerencia alunos, aulas, treinos, presença, plano, pagamentos, avaliações físicas, exercícios e instrutores.
 Cada aluno possui um plano, pode participar de várias aulas, registrar presença, receber avaliações físicas e ter treinos específicos com exercícios detalhados.
 
-# 📂 Estrutura do Repositório
-📁 projeto-academia-sql/
-│
-├── 01_create_tables.sql       # Criação do banco e das tabelas (DDL)
-├── 02_insert_dados.sql        # Inserção de dados (DML)
-├── 03_select_consultas.sql    # Consultas SELECT (JOIN, filtros, ordenações)
-├── 04_update_delete.sql       # Comandos UPDATE e DELETE
-└── README.md                  # Documentação principal
-
 # 🧱 Modelo Lógico – DER
 
 O banco de dados contém as seguintes tabelas:
 
 ✔ aluno
+
 ✔ plano
+
 ✔ presenca
+
 ✔ pagamento
+
 ✔ instrutor
+
 ✔ aula
+
 ✔ avaliacao_fisica
+
 ✔ treino
+
 ✔ exercicio
 
 # 🛠️ Tecnologias Utilizadas
 
-✔ MySQL 8.x
+✔ MySQL 8.0
+
 ✔ MySQL Workbench
+
 ✔ Git & GitHub
+
 ✔ SQL DDL e DML (CREATE, INSERT, SELECT, UPDATE, DELETE)
 
 # 🚀 Como Executar os Scripts
@@ -85,10 +87,15 @@ Todos com condições (WHERE)
 # 📊 Exemplo de Consultas Incluídas
 
 ✔ Listagem de alunos e seus planos
+
 ✔ Pagamentos por aluno
+
 ✔ Instrutores e aulas ministradas
+
 ✔ Presenças dos alunos em aulas
+
 ✔ Treinos com exercícios
+
 ✔ Avaliações físicas
 
 # 🔍 Validação e Normalização
@@ -96,12 +103,8 @@ Todos com condições (WHERE)
 As tabelas foram verificadas conforme:
 
 Primeira Forma Normal (1FN)
-
 Segunda Forma Normal (2FN)
-
 Terceira Forma Normal (3FN)
-
-Com documentação entregue no PDF da atividade.
 
 # 🧩 Relacionamentos Principais
 
@@ -119,7 +122,9 @@ Um treino → contém vários exercícios
 
 Andreza Lucas
 Disciplina: Modelagem de Banco de Dados
+
 Período: 2025
+
 Instituição: Unipê - Cruzeiro do Sul 
 
 # 📎 Licença
