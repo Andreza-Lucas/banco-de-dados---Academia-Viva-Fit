@@ -21,35 +21,22 @@ Cada aluno possui um plano, pode participar de várias aulas, registrar presenç
 
 O banco de dados contém as seguintes tabelas:
 
-aluno
-
-plano
-
-presenca
-
-pagamento
-
-instrutor
-
-aula
-
-avaliacao_fisica
-
-treino
-
-exercicio
-
-Cada tabela foi projetada seguindo rigorosamente 1FN, 2FN e 3FN.
+✔ aluno
+✔ plano
+✔ presenca
+✔ pagamento
+✔ instrutor
+✔ aula
+✔ avaliacao_fisica
+✔ treino
+✔ exercicio
 
 # 🛠️ Tecnologias Utilizadas
 
-MySQL 8.x
-
-MySQL Workbench
-
-Git & GitHub
-
-SQL DDL e DML (CREATE, INSERT, SELECT, UPDATE, DELETE)
+✔ MySQL 8.x
+✔ MySQL Workbench
+✔ Git & GitHub
+✔ SQL DDL e DML (CREATE, INSERT, SELECT, UPDATE, DELETE)
 
 # 🚀 Como Executar os Scripts
 1️⃣ Criar banco e tabelas
@@ -72,7 +59,6 @@ Contém:
 SELECT com WHERE
 
 SELECT com ORDER BY
-
 SELECT com JOIN
 
 SELECT com LIMIT
