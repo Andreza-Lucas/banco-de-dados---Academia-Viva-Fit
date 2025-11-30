@@ -121,6 +121,7 @@ Um treino → contém vários exercícios
 # 👩‍💻 Autora
 
 Andreza Lucas
+
 Disciplina: Modelagem de Banco de Dados
 
 Período: 2025
